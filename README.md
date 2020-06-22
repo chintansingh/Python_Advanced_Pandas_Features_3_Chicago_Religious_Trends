@@ -19,4 +19,4 @@ http://www.thearda.com/Archive/Files/Descriptions/CMS80CNT.asp
 Religiousness of an area (county/state/country) is computed as % of Adherent Population in an area to the Total Population of the area.
 
 Summary of results:
-![]ReligiousDataPlot.JPG
+![](ReligiousDataPlot.JPG)
